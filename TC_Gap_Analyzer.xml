@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.9.60/MA.xsd" MA_Major_Version="3" MA_Minor_Version="9" MA_Dot_Version="60">
+	<Info>
+		<CreatedBy>Jules</CreatedBy>
+		<Date>2025-11-17T14:55:00</Date>
+		<Title>TC_Gap_Analyzer Plugin</Title>
+	</Info>
+	<Plugin Name="TC_Gap_Analyzer" Path="">
+		<ComponentLua File="TC_Gap_Analyzer.lua"></ComponentLua>
+	</Plugin>
+</MA>
